@@ -10,7 +10,7 @@ This library is a CRUD (Create, Read, Update, Delete) library for Appwrite, inte
 sherpa install -n "appwrite" -t "lib" -u "https://github.com/AndiKod/appwrite-bashlib"
 ```
 
-You can install the pre-configured, bashbox demo package, demonstrating the basic CRUD operations and build from there
+You can install the pre-configured, bashbox [demo package](https://github.com/AndiKod/appwrite-bashbox), demonstrating the basic CRUD operations and build from there
 
 ```bash
 sherpa install -n "appwrite" -u "https://github.com/AndiKod/appwrite-bashbox"
