@@ -1,0 +1,5 @@
+package:
+  name: appwrite
+  version: 0.1.0
+  repo: github.com/AndiKod/appwrite-bashlib
+  type: localLib
